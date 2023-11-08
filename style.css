@@ -1,0 +1,36 @@
+*{
+   align-items: center;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+}
+body{
+    background-color: rgb(34, 32, 32);
+    color: aliceblue;
+}
+
+.inputbot{
+    width: 100%;
+    font-size: larger;
+    border-radius: 10%;
+}
+label{
+    font-size: xx-large;
+    
+}
+input{
+    width: 100%;
+}
+li{
+    font-size: larger;
+    margin-top: 2px;
+    background-color: rgb(88, 88, 88);
+    padding-bottom: 1px;
+}
+.concluido{
+    text-decoration: capitalize;
+    color: rgb(0, 253, 148);
+}
+@media {
+    
+}
